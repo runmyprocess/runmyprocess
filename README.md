@@ -2,5 +2,5 @@
 
 ## Delivery
 
--   [Stylesheet](/delivery-stylesheet)
--   [JavaScript](/delivery-javascript)
+-  [Stylesheet](/delivery-stylesheet)
+-  [JavaScript](/delivery-javascript)
